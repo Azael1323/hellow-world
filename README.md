@@ -4,3 +4,7 @@ Estoy aprendiendo por mi cuenta, asi que cometere varios errores en este transcu
 ----2da Edición-----
 
 En teoria esta es la rama que hago por mi cuenta y ver que onda pero  no estaria entendiendo mucho que pedo con esto
+
+
+------3ra edicion desde la prueba2------
+holaa
