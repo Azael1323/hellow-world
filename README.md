@@ -3,8 +3,7 @@ Este es mi primer repositorio, veamos que onda.
 Estoy aprendiendo por mi cuenta, asi que cometere varios errores en este transcurso pero eso no significa que será un detenimiento y una indicación de que esto no es lo mio, yo quiero aprender y ser un buen programador.
 ----2da Edición-----
 
-En teoria esta es la rama que hago por mi cuenta y ver que onda pero  no estaria entendiendo mucho que pedo con esto
+En teoria esta es la rama que hago por mi cuenta y ver que onda pero  no estaria entendiendo mucho que pedo con est====
+----3ra Edición--
 
-
-------3ra edicion desde la prueba2------
-holaa
+89756.html
